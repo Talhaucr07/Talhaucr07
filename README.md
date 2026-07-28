@@ -133,7 +133,7 @@ The project combines interactive mapping, spatial data management and artificial
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:talhaucr07@gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=talhaucr07@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
