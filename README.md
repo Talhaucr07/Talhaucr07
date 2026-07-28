@@ -133,9 +133,9 @@ The project combines interactive mapping, spatial data management and artificial
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:talhaucr07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:talhaucr07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
   <a href="https://www.linkedin.com/in/talha-ucar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
