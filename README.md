@@ -121,14 +121,6 @@ The project combines interactive mapping, spatial data management and artificial
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Talhaucr07&show_icons=true&theme=github_dark&hide_border=true" alt="Talha's GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaucr07&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -141,10 +133,11 @@ The project combines interactive mapping, spatial data management and artificial
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="talhaucr07@gmail.com">
+  <a href="mailto:talhaucr07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/feed/">
+
+  <a href="https://www.linkedin.com/in/talha-ucar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
