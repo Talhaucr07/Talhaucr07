@@ -141,10 +141,10 @@ The project combines interactive mapping, spatial data management and artificial
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:EMAIL_ADRESINI_BURAYA_YAZ">
+  <a href="talhaucr07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="LINKEDIN_LINKINI_BURAYA_YAZ">
+  <a href="[https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
